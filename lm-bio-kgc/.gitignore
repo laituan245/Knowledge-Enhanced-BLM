@@ -1,0 +1,6 @@
+msi-transductive.pt
+
+**/subgraph/*.pt
+**/tokenized/*
+**/results/*
+**/__pycache__/*
